@@ -10,7 +10,7 @@ Welcome to my Greeden website! It was creating HTML and TailwindCSS to provide a
 
 ## How to view
 
-You can view the portfolio website at [link=""]
+You can view the portfolio website at [link=" https://ranjitha-1228.github.io/Greenden_Tailwind/"]
 
 ## Technologies Used
 
